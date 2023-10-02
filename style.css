@@ -44,3 +44,22 @@
     color: white;
     height: 10px;
 }
+
+.ultima-colonna{
+    text-align: left;
+}
+
+.azzurro-acqua{
+    height: 20px;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.lorem-lungo{
+    width: 50%;
+    text-align: left;
+}
+
+td{
+    text-align: center;
+}
