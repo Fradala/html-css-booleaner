@@ -1,0 +1,19 @@
+.primo-h1{
+    font-size: 15px;
+    margin-bottom: 0px;
+    
+}
+
+.titolo-nello-sfondo{
+    background-color: rgba(0, 148, 247, 0.852);
+    background-image: url(./img/pattern.png);
+    background-size: auto;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.sotto-titolo{
+    border-top: 0px;
+}
+    
