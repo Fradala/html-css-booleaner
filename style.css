@@ -1,6 +1,7 @@
 .parola-the{
     font-size: 15px;
     margin-bottom: 0px;
+    display: inline;
     
 }
 
@@ -33,6 +34,8 @@
 
 .descrizione-foto{
     margin-top: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
 }
 
 .giallo{
@@ -62,4 +65,13 @@
 
 td{
     text-align: center;
+}
+
+.ultimo-testo-lungo{
+    margin-top: 15px;
+}
+
+.foto-grafiche{
+    display: block;
+    margin-bottom: 10px;
 }
