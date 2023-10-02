@@ -71,8 +71,17 @@ td{
     margin-top: 15px;
 }
 
-.foto-grafiche{
-    display: block;
-    margin-bottom: 10px;
-    
+.image{
+    background-image: url(./img/monitor.jpg);
+    width: 250px;
+    height: 150px;
+}
+
+h3{
+    color: white;
+}
+.image2{
+    background-image: url(./img/graph.jpg);
+    width: 250px;
+    height: 150px;
 }
